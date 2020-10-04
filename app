@@ -6,4 +6,6 @@ $app = new \Symfony\Component\Console\Application('dialog application');
 
 $app->add(new \App\SayHello());
 
+$app->add(new \App\RepeatString());
+
 $app->run();
