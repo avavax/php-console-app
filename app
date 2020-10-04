@@ -8,4 +8,6 @@ $app->add(new \App\SayHello());
 
 $app->add(new \App\RepeatString());
 
+$app->add(new \App\UserDialog());
+
 $app->run();
