@@ -1,0 +1,10 @@
+{
+    "name": "user/php.console.app",
+    "authors": [
+        {
+            "name": "avavax",
+            "email": "ip-media@yandex.ru"
+        }
+    ],
+    "require": {}
+}
